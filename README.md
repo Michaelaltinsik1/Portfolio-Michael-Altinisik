@@ -11,4 +11,4 @@ Projects
 
 
 Contact
-<img src="./assets/linkedIn-icon.png" alt="LinkedIn">
+<a href="www.linkedin.com/in/michael-altinisik-09b137234" target="_blank"><img src="./assets/linkedIn-icon.png" alt="LinkedIn" width="50" height="50"></a>
