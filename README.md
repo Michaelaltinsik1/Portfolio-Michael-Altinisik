@@ -11,3 +11,4 @@ Projects
 
 
 Contact
+<img src="./assets/linkedIn-icon.png" alt="LinkedIn">
