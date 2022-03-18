@@ -1,16 +1,18 @@
-# Portfolio-Michael-Altinisik
+<h1># Portfolio-Michael-Altinisik</h1>
 
 <p>I am a Frontend developer student at IT Högskolan. It’s a two year long education. Finishing my first year in may 2022, hence I am looking for an internship for autumn 2022. I am thorough, motivated and I always strive to evolve. I have always had a interest in IT, because  I have used computers since I was young. 
 
 My programming interest came during my first programming course while I studied at KTH and my interest has only evolved since.
 </p>
-Projects
+<h2>Projects</h2>
 
 
 
 
 
-Contact
-<a href="www.linkedin.com/in/michael-altinisik-09b137234">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
+<h2>Contact</h2>
+<div>
+    <a href="www.linkedin.com/in/michael-altinisik-09b137234">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+ </div>
