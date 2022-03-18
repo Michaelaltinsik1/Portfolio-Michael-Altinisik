@@ -16,3 +16,4 @@ My programming interest came during my first programming course while I studied 
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
  </div>
+[www.linkedin.com/in/michael-altinisik-09b137234](LinkedIn)
