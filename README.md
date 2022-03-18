@@ -12,9 +12,8 @@ My programming interest came during my first programming course while I studied 
 
 <h2>Contact</h2>
 <div>
-    <a href="www.linkedin.com/in/michael-altinisik-09b137234">
+    <a href="www.linkedin.com/in/michael-altinisik-09b137234" rel="nofollow">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
  </div>
-[![name](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)](https://thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
 
