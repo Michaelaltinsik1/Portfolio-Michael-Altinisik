@@ -12,7 +12,7 @@ My programming interest came during my first programming course while I studied 
 
 <h2>Contact</h2>
 <div>
-    <a href="www.linkedin.com/in/michael-altinisik-09b137234" rel="nofollow">
+    <a href="www.linkedin.com/in/michael-altinisik-09b137234">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
  </div>
