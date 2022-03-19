@@ -6,9 +6,11 @@ Projects
 --
 <p>
  <h2>Sinus skate shop</h2>
+ Link
 </p>
 <p>
  <h2>Calculator</h2>
+ link
 </p>
 
 
