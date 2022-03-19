@@ -1,6 +1,7 @@
 <p align="center">
  <img src="assets/MICHAEL%20ALTINISIK.png">
 </p>
+--
 
 Projects
 
