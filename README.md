@@ -1,6 +1,5 @@
 # Portfolio-Michael-Altinisik
 
-![](assets/Banner.png)<br/>
 <img src="assets/Banner.png" width="100%"><br/>
 Contact 
 --
