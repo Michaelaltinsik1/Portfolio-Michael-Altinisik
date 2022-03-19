@@ -9,9 +9,9 @@ Projects
 --
 <table>
  <tr>
-  <th>Sinus Skateshop</th>
-  <td>Link</td>
-  <td>Link</td>
+  <th>Project name</th>
+  <th>Deployed/Youtube Link</td>
+  <th>Repo Link</td>
  </tr>
 </table>
 
