@@ -7,17 +7,13 @@
 
 Projects
 --
-<div width="100%">
- <p width="33%">
-  <h2>Sinus skate shop</h2>
- </p>
- <p width="33%">
-  <h2>Calculator</h2>
- </p>
- <p width="33%">
-  <h2>Calculator</h2>
- </p>
-</div>
+<table>
+ <tr>
+  <th>Sinus Skateshop</th>
+  <td>Link</td>
+  <td>Link</td>
+ </tr>
+</table>
 
 
 Contact 
