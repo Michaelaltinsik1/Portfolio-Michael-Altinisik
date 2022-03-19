@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio-Michael-Altinisik</h1>
 
-<img src="assets/MICHAEL%20ALTINISIK.png" width="100%"><br/>
+<img src="assets/MICHAEL%20ALTINISIK.png" align="center"><br/>
 
 Portfolio
 
