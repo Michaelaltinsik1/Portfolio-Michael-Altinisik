@@ -1,4 +1,3 @@
-<h1 align="center">Portfolio</h1>
 <p align="center">
  <img src="assets/MICHAEL%20ALTINISIK.png">
 </p>
