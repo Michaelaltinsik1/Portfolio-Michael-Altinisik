@@ -13,6 +13,18 @@ Projects
   <th>Deployed/Youtube Link</td>
   <th>Repo Link</td>
  </tr>
+ <tr>
+  <td>Sinus Skateshop</td>
+ </tr>
+ <tr>
+  <td>Calculator</td>
+ </tr>
+ <tr>
+  <td>Credit card handler</td>
+ </tr>
+ <tr>
+  <td>Stars Wars information</td>
+ </tr>
 </table>
 
 
