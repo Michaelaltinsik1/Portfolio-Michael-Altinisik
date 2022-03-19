@@ -4,7 +4,12 @@
 
 Projects
 --
-
+<div>
+ <h2>Sinus skate shop</h2>
+</div>
+<div>
+ <h2>Calculator</h2>
+</div>
 
 
 Contact 
