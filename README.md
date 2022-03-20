@@ -15,12 +15,13 @@ Projects
  </tr>
  <tr>
   <td>Sinus Skateshop</td>
+ <td>See repo(https://github.com/Michaelaltinsik1/Sinus-skate-shop)
  </tr>
  <tr>
   <td>Calculator</td>
  </tr>
  <tr>
-  <td>Credit card handler</td>
+  <td>E-wallet</td>
  </tr>
  <tr>
   <td>Stars Wars information</td>
