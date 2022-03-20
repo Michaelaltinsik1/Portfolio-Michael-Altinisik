@@ -16,7 +16,9 @@ Projects
  <tr>
   <td>Sinus Skateshop</td>
   <td></td>
-  <td>[I'm an inline-style link](https://www.google.com)</td>
+  <td>
+    <a href="https://github.com/Michaelaltinsik1/Sinus-skate-shop">See repo here</a>
+  </td>
  </tr>
  <tr>
   <td>Calculator</td>
