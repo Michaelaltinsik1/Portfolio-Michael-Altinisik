@@ -16,7 +16,9 @@ Projects
  </tr>
  <tr>
   <td>Sinus Skateshop</td>
-  <td></td>
+  <td>
+   <a href="https://youtu.be/8iWH-IW0UjU">Youtube link</a>
+  </td>
   <td>
     <a href="https://github.com/Michaelaltinsik1/Sinus-skate-shop">See repo here</a>
   </td>
