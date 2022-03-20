@@ -37,7 +37,7 @@ Projects
   </td>
  </tr>
  <tr>
-  <td>Stars Wars information</td>
+  <td>Stars Wars Catalog</td>
   <td></td>
   <td>
     <a href="">See repo here</a>
