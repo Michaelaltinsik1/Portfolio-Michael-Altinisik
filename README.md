@@ -50,7 +50,9 @@ Projects
  </tr>
  <tr>
   <td>Stars Wars Catalog</td>
-  <td></td>
+  <td>
+   <a href="https://michaelaltinsik1.github.io/Star_Wars_Catalog/">See website here</a>
+  </td>
   <td>
     <a href="">See repo here</a>
   </td>
@@ -62,9 +64,11 @@ Projects
  </tr>
  <tr>
   <td>Insurance</td>
-  <td></td>
   <td>
-    <a href="">See repo here</a>
+   <a href="">See website here</a>
+  </td>
+  <td>
+    <a href="https://github.com/Michaelaltinsik1/Insurance-Project">See repo here</a>
   </td>
   <td>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
