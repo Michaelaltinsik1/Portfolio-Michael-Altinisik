@@ -43,6 +43,13 @@ Projects
     <a href="">See repo here</a>
   </td>
  </tr>
+ <tr>
+  <td>Insurance</td>
+  <td></td>
+  <td>
+    <a href="">See repo here</a>
+  </td>
+ </tr>
 </table>
 
 
