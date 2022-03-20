@@ -22,12 +22,26 @@ Projects
  </tr>
  <tr>
   <td>Calculator</td>
+  <td>
+   <a href="https://michaelaltinsik1.github.io/Calculator/">See website here</a>
+  </td>
+  <td>
+    <a href="https://github.com/Michaelaltinsik1/Calculator">See repo here</a>
+  </td>
  </tr>
  <tr>
   <td>E-wallet</td>
+  <td></td>
+  <td>
+    <a href="">See repo here</a>
+  </td>
  </tr>
  <tr>
   <td>Stars Wars information</td>
+  <td></td>
+  <td>
+    <a href="">See repo here</a>
+  </td>
  </tr>
 </table>
 
