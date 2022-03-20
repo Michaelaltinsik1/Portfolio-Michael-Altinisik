@@ -10,8 +10,9 @@ Projects
 <table>
  <tr>
   <th>Project name</th>
-  <th>Deployed/Youtube Link</td>
-  <th>Repo Link</td>
+  <th>Deployed/Youtube Link</th>
+  <th>Repo Link</th>
+  <th>Languages</th>
  </tr>
  <tr>
   <td>Sinus Skateshop</td>
