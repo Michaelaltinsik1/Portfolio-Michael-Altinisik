@@ -42,7 +42,7 @@ Projects
   <td>E-wallet</td>
   <td></td>
   <td>
-    <a href="">See repo here</a>
+    <a href="https://github.com/Michaelaltinsik1/Wallet-public">See repo here</a>
   </td>
   <td>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
