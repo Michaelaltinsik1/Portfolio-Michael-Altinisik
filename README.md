@@ -40,7 +40,9 @@ Projects
  </tr>
  <tr>
   <td>E-wallet</td>
-  <td></td>
+  <td>
+   <a href="https://michaelaltinsik1.github.io/Wallet-public/">See website here</a>
+  </td>
   <td>
     <a href="https://github.com/Michaelaltinsik1/Wallet-public">See repo here</a>
   </td>
