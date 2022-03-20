@@ -65,7 +65,7 @@ Projects
  <tr>
   <td>Insurance</td>
   <td>
-   <a href="">See website here</a>
+   <a href="https://michaelaltinsik1.github.io/Insurance-Project/our-offers.html">See website here</a>
   </td>
   <td>
     <a href="https://github.com/Michaelaltinsik1/Insurance-Project">See repo here</a>
