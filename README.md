@@ -9,7 +9,7 @@
 <a href="https://v2.tailwindcss.com/docs" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="postgres" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Michaelaltinsik1/Portfolio-Michael-Altinisik/blob/main/assets/expressjs_logo_icon_169185.svg" alt="postgres" width="40" height="40"/> </a>
 </p>
 
 
