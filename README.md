@@ -93,7 +93,7 @@ Projects
    <a href="https://michael-altinisik-portfolio.netlify.app/">See website here</a>
   </td>
   <td>
-    <p href="https://github.com/Michaelaltinsik1/Headless-cms-portfolio">See repo here</p>
+    <a href="https://github.com/Michaelaltinsik1/Headless-cms-portfolio">See repo here</a>
   </td>
   <td>
    <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40"/>
