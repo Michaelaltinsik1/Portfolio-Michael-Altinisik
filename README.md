@@ -14,7 +14,8 @@
 <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.gatsbyjs.com/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="40" height="40"/> </a>
 <a href="https://wordpress.org/documentation/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 
 
 Projects
