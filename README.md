@@ -11,7 +11,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="postgres" width="40" height="40"/> </a>
 </p>
-
+<p>
 <a href="https://www.contentful.com/developers/docs/" target="_blank" rel="noreferrer"> <img src="https://github.com/Michaelaltinsik1/Portfolio-Michael-Altinisik/blob/main/assets/contentful-svgrepo-com.svg" alt="contentful" width="40" height="40"/> </a>
 </p>
 <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
