@@ -74,6 +74,19 @@ Projects
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </td>
  </tr>
+  <tr>
+  <td>Sports news</td>
+  <td>
+   <a href="https://micalt.pidgeo.app/">See website here</a>
+  </td>
+  <td>
+    <p href="">-</p>
+  </td>
+  <td>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </td>
+ </tr>
  <tr>
   <td>Insurance</td>
   <td>
