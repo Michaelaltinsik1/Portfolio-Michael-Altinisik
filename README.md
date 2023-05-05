@@ -88,6 +88,20 @@ Projects
   </td>
  </tr>
  <tr>
+  <td>Portfolio </td>
+  <td>
+   <a href="https://michael-altinisik-portfolio.netlify.app/">See website here</a>
+  </td>
+  <td>
+    <p href="https://github.com/Michaelaltinsik1/Headless-cms-portfolio">See repo here</p>
+  </td>
+  <td>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40"/>
+   <img src="https://github.com/Michaelaltinsik1/Portfolio-Michael-Altinisik/blob/main/assets/contentful-svgrepo-com.svg" alt="Contentful" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  </td>
+ </tr>
+ <tr>
   <td>Insurance</td>
   <td>
    <a href="https://michaelaltinsik1.github.io/Insurance-Project/our-offers.html">See website here</a>
