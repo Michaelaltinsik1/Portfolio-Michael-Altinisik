@@ -47,6 +47,18 @@ Projects
   </td>
  </tr
  <tr>
+  <td>Sinus Skateshop</td>
+  <td>
+   <a href="https://youtu.be/8iWH-IW0UjU">Youtube link</a>
+  </td>
+  <td>
+    <a href="https://github.com/Michaelaltinsik1/Sinus-skate-shop">See repo here</a>
+  </td>
+  <td>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </td>
+ </tr>
+ <tr>
   <td>Quizza</td>
   <td>
    <a href="https://quiz-michael.netlify.app/">See website here</a>
@@ -58,18 +70,6 @@ Projects
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-  </td>
- </tr>
- <tr>
-  <td>Sinus Skateshop</td>
-  <td>
-   <a href="https://youtu.be/8iWH-IW0UjU">Youtube link</a>
-  </td>
-  <td>
-    <a href="https://github.com/Michaelaltinsik1/Sinus-skate-shop">See repo here</a>
-  </td>
-  <td>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </td>
  </tr>
  <tr>
@@ -86,19 +86,7 @@ Projects
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </td>
  </tr>
- <tr>
-  <td>E-wallet</td>
-  <td>
-   <a href="https://michaelaltinsik1.github.io/Wallet-public/">See website here</a>
-  </td>
-  <td>
-    <a href="https://github.com/Michaelaltinsik1/Wallet-public">See repo here</a>
-  </td>
-  <td>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </td>
- </tr>
- <tr>
+  <tr>
   <td>Space tourism</td>
   <td>
    <a href="https://michael-spacetourism.netlify.app/">See website here</a>
@@ -109,6 +97,18 @@ Projects
   <td>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </td>
+ </tr>
+ <tr>
+  <td>E-wallet</td>
+  <td>
+   <a href="https://michaelaltinsik1.github.io/Wallet-public/">See website here</a>
+  </td>
+  <td>
+    <a href="https://github.com/Michaelaltinsik1/Wallet-public">See repo here</a>
+  </td>
+  <td>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </td>
  </tr>
  <tr>
