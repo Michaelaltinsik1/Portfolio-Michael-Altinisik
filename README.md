@@ -111,20 +111,6 @@ Projects
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </td>
  </tr>
- <tr>
-  <td>Stars Wars Catalog</td>
-  <td>
-   <a href="https://michaelaltinsik1.github.io/Star_Wars_Catalog/">See website here</a>
-  </td>
-  <td>
-    <a href="https://github.com/Michaelaltinsik1/Star_Wars_Catalog">See repo here</a>
-  </td>
-  <td>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </td>
- </tr>
   <tr>
   <td>Sports news</td>
   <td>
