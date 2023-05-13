@@ -45,6 +45,20 @@ Projects
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </td>
+ </tr
+ <tr>
+  <td>Quizza</td>
+  <td>
+   <a href="https://quiz-michael.netlify.app/">See website here</a>
+  </td>
+  <td>
+    <a href="https://github.com/Michaelaltinsik1/Quizza">See repo here</a>
+  </td>
+  <td>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  </td>
  </tr>
  <tr>
   <td>Sinus Skateshop</td>
@@ -135,20 +149,6 @@ Projects
   <td>
    <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40"/>
    <img src="https://github.com/Michaelaltinsik1/Portfolio-Michael-Altinisik/blob/main/assets/contentful-svgrepo-com.svg" alt="Contentful" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-  </td>
- </tr>
- <tr>
-  <td>Quizza</td>
-  <td>
-   <a href="https://quiz-michael.netlify.app/">See website here</a>
-  </td>
-  <td>
-    <a href="https://github.com/Michaelaltinsik1/Quizza">See repo here</a>
-  </td>
-  <td>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
   </td>
  </tr>
